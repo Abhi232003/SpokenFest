@@ -414,21 +414,23 @@ Soothing Listening Booths | Art Activities | De-stress games (Think pop its and 
                 <ul class="tenetList col-100 floatLft">
                     <li>
                         <span class="outer">
-                            <span class="inner"><span>Creativity</span></span>
+                            <span class="inner"><span>Inclusivity</span></span>
                         </span>
-                        <p class="body-font"><?php echo $ethosData['ethosCreativityDescription']; ?></p>
+                        <p class="body-font">Spokenfest is a safe space for everyone to share their stories and joy. We embrace diversity and encourage artists from all different kinds of linguistic groups, ethnicities, and cultures. It doesn’t matter who you are as long as you are a hundred percent yourself!
+                        </p>
+                    </li>
+                    <li>
+                        <span class="outer">
+                            <span class="inner"><span>ACCESSIBILITY </span></span>
+                        </span>
+                        <p class="body-font">Spokenfest is dedicated to ensuring that our storytelling and performing arts spaces are accessible and welcoming to all individuals regardless of their physical abilities. </p>
                     </li>
                     <li>
                         <span class="outer">
                             <span class="inner"><span>SUSTAINABILITY</span></span>
                         </span>
-                        <p class="body-font"><?php echo $ethosData['ethosSustainabilityDescription']; ?></p>
-                    </li>
-                    <li>
-                        <span class="outer">
-                            <span class="inner"><span>SAFETY</span></span>
-                        </span>
-                        <p class="body-font"><?php echo $ethosData['ethosSafetyDescription']; ?></p>
+                        <p class="body-font">Spokenfest is all green flags. We are about leaving a net positive impact, in minds and the environment. We work with Skrap to ensure we are a zero waste festival and carbon positive festival.
+                        </p>
                     </li>
                 </ul>
             </div>
