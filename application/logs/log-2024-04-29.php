@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-29 00:26:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 00:52:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 03:04:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 03:05:14 --> 404 Page Not Found: Front/js
+ERROR - 2024-04-29 03:05:15 --> 404 Page Not Found: Front/js
+ERROR - 2024-04-29 03:05:26 --> 404 Page Not Found: Util/login.aspx
+ERROR - 2024-04-29 03:05:27 --> 404 Page Not Found: Magento_version/index
+ERROR - 2024-04-29 03:05:27 --> 404 Page Not Found: Installphp/index
+ERROR - 2024-04-29 07:10:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2024-04-29 07:55:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 09:06:04 --> 404 Page Not Found: Front/images
+ERROR - 2024-04-29 09:06:06 --> 404 Page Not Found: Front/images
+ERROR - 2024-04-29 09:06:06 --> 404 Page Not Found: Front/images
+ERROR - 2024-04-29 09:06:06 --> 404 Page Not Found: Front/images
+ERROR - 2024-04-29 10:08:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 11:09:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 11:10:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 11:10:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 11:11:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 12:31:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-29 12:31:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-29 12:31:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-29 13:10:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 13:22:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 13:22:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-29 15:23:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 15:23:03 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-29 15:53:48 --> 404 Page Not Found: Wp-content/index
+ERROR - 2024-04-29 17:26:51 --> 404 Page Not Found: Sellersjson/index
+ERROR - 2024-04-29 17:26:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-29 17:26:51 --> 404 Page Not Found: App-adstxt/index

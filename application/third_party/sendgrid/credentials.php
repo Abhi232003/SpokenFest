@@ -1,0 +1,4 @@
+<?php 
+	/*$API_KEY = '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';*/
+	$API_KEY = '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';
+?>

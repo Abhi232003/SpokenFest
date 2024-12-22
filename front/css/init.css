@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Karrik';
+    src: url('fonts/Karrik-Regular.eot');
+    src: url('fonts/Karrik-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Karrik-Regular.woff2') format('woff2'),
+        url('fonts/Karrik-Regular.woff') format('woff'),
+        url('fonts/Karrik-Regular.ttf') format('truetype'),
+        url('fonts/Karrik-Regular.svg#Karrik-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+*{outline:none;box-sizing:border-box;margin:0;padding:0;}
+input,button{-moz-appearance:none;-webkit-appearance:none;}
+input,button,div,ul,li{outline:none !important;}
+a:link,a:visited{text-decoration:none;}
+img{border:none;outline:none;}
+ul,ul li{list-style-type:none}
+.relative{position:relative;}
+.absolute{position:absolute;}
+.fixed{position: fixed;}
+.highIndex{z-index: 999;}
+.clr{clear:both}
+.floatLft{float:left}
+.floatRgt{float:right}
+.inlineBlk{display:inline-block;vertical-align:middle}
+.col-100{width:100%}
+.textCenter{text-align:center;}
+.textLeft{text-align:left;}
+.textRight{text-align:right;}
+.textUpper{text-transform: uppercase;}
+.flexCenter{display: flex;justify-content: center;}
+.primaryColor{color: #FBF6D8;}
+.body-font{font-family: 'Karrik';}

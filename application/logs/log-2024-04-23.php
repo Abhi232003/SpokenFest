@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-23 01:22:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 03:45:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 05:44:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 06:54:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 06:54:39 --> 404 Page Not Found: Tickets/index
+ERROR - 2024-04-23 07:08:15 --> 404 Page Not Found: Front/images
+ERROR - 2024-04-23 07:08:17 --> 404 Page Not Found: Front/images
+ERROR - 2024-04-23 07:08:17 --> 404 Page Not Found: Front/images
+ERROR - 2024-04-23 07:08:17 --> 404 Page Not Found: Front/images
+ERROR - 2024-04-23 07:46:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 11:17:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 11:34:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 13:27:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-04-23 13:27:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-04-23 13:27:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-04-23 13:27:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-04-23 13:27:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-04-23 13:27:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-04-23 13:42:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-23 14:42:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 15:42:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-23 15:57:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 16:33:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 16:45:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 16:48:42 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-04-23 16:48:45 --> 404 Page Not Found: Wp-cronphp/index
+ERROR - 2024-04-23 19:18:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 19:18:22 --> 404 Page Not Found: Workshops/index
+ERROR - 2024-04-23 22:04:13 --> 404 Page Not Found: Website/img
+ERROR - 2024-04-23 23:05:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 23:11:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 23:18:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 23:18:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-23 23:59:19 --> 404 Page Not Found: Well-known/traffic-advice
