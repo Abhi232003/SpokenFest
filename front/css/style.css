@@ -54,7 +54,7 @@ video{z-index:1;width: 100%;}
 .tabsListing li:hover a{background-color: #F4B300;color: #000;}
 .tabsListing li:hover a::before{background-color: #009283;}
 .tabsListing li:hover a::after{background-color: #009283;}
-.lineThrough{background-color: #000;padding: 2px 0 10px;left: 0;top:70%; width: 100%;}
+.lineThrough{background-color: #000;padding: 2px 0 10px;left: 0;top:66%; width: 100%;}
 .lineThrough span{background-color: #EB4D8A;height: 4px;}
 .tab-content{display: none;}
 .tab-content.current{display: inherit;}
@@ -376,4 +376,23 @@ lineup-head h2.partner::after{content:'';position:absolute;right:-52%;top:50%;tr
     .lineup-slider.slick-slider button.slick-next {
         right: 0;
     }
+}
+
+@media screen and (max-width: 1100px){
+    .lineThrough{background-color: #000;padding: 2px 0 10px;left: 0;top:67.5%; width: 100%;}
+}
+@media screen and (max-width: 992px){
+    .lineThrough{background-color: #000;padding: 2px 0 10px;left: 0;top:68.5% !important; width: 100%;}
+}
+@media screen and (max-width: 666px){
+    .lineThrough{background-color: #000;padding: 2px 0 10px;left: 0;top:71% !important; width: 100%;}
+}
+@media screen and (max-width: 550px){
+    .lineThrough{background-color: #000;padding: 2px 0 10px;left: 0;top:72% !important; width: 100%;}
+}
+@media screen and (max-width: 438px){
+    .lineThrough{background-color: #000;padding: 2px 0 10px;left: 0;top:75% !important; width: 100%;}
+}
+@media screen and (max-width: 421px){
+    .lineThrough{background-color: #000;padding: 2px 0 10px;left: 0;top:77% !important; width: 100%;}
 }
