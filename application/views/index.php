@@ -3,7 +3,7 @@
         </video>
         <div class="ap-bannerWrp textCenter">
             <div class="banner-logo textCenter">
-                <img src="<?php echo base_url();?>front/images/spoken-New-Bann.png" alt="">
+                <img src="<?php echo base_url();?>front/images/Banner-latest.png" alt="">
             </div>
             <div class="ap-btnWrps textCenter">
                 <a href="<?php echo base_url('booktickets/'); ?>" class="banner-btns"><img src="<?php echo base_url();?>front/images/book-nowImg.png" alt=""></a>
